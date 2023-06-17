@@ -1,4 +1,4 @@
-This is a collection of Mathematica functions used in the manuscript: T. Bogart, C. O'Neill, and K. Woods, "Projections of normal affine semigroups and quotients of numerical semigroups", preprint (2023).
+This is a collection of Mathematica functions used in the manuscript: T. Bogart, C. O'Neill, and K. Woods, "Numerical semigroups via projections versus via quotients", preprint (2023).
 
 Quotient_functions.nb is the Mathematica notebook.
 
