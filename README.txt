@@ -1,4 +1,4 @@
-This is a collection of Mathematica functions used in the manuscript: T. Bogart, C. O'Neill, and K. Woods, "Numerical semigroups via projections and via quotients", preprint (2023), https://arxiv.org/abs/2306.11564.
+This is a collection of Mathematica functions used in the manuscript: T. Bogart, C. O'Neill, and K. Woods, "Numerical semigroups via projections and via quotients", Discrete & Computational Geometry, to appear (2024), https://arxiv.org/abs/2306.11564.
 
 Quotient_functions.nb is the Mathematica notebook.
 
